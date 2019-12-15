@@ -82,14 +82,14 @@ a:hover {
 
 .hero-text-wrapper {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: baseline;
 }
 
 .hero-text {
   margin: 0 auto;
   padding: .625rem;
   color: hsla(0,0%,100%,.9);
-  background: hsla(100,0%,0%,.5);
+  background: hsla(100,0%,0%,.6);
 }
 
 .hero-text h1 {
@@ -102,8 +102,8 @@ a:hover {
 
   .hero-text {
     padding: 1.25rem;
-    border-radius: 4px;
-    width: 41%;
+    border-radius: 40px;
+    width: 44%;
   }
 
   .hero-text h1 {
